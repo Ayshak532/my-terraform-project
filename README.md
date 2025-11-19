@@ -1,9 +1,9 @@
-📘 Terraform AWS VPC Project
+📘 **Terraform AWS VPC Project**
 
 This project contains a simple Terraform configuration that creates basic AWS networking resources.
 It is based on the YouTube tutorial used to build this project.
 
-✅ Resources Created
+✅ **Resources Created**
 
 VPC
 
@@ -15,34 +15,34 @@ Route Table
 
 Route Table Association
 
-🗂 Project Files
+🗂 **Project Files**
 main.tf   → main Terraform configuration file
 README.md → project documentation
 
-▶️ How to Run This Project
+▶️ **How to Run This Project**
 
-Install Terraform on your system
+**1.** Install Terraform on your system
 
-Configure your AWS CLI:
+**2.** Configure your AWS CLI:
 
 aws configure
 
 
-Initialize Terraform:
+**3.** Initialize Terraform:
 
 terraform init
 
 
-View the execution plan:
+**4.** View the execution plan:
 
 terraform plan
 
 
-Apply the configuration:
+**5.** Apply the configuration:
 
 terraform apply
 
-📝 Notes
+📝 **Notes**
 
 Make sure your AWS IAM user has correct permissions (EC2, VPC, Networking).
 
