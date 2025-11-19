@@ -1,4 +1,4 @@
-📘 **Terraform AWS VPC Project**
+📘 **AWS VPC Infrastructure Automation using Terraform**
 
 This project contains a simple Terraform configuration that creates basic AWS networking resources.
 
