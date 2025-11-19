@@ -1,7 +1,6 @@
 📘 **Terraform AWS VPC Project**
 
 This project contains a simple Terraform configuration that creates basic AWS networking resources.
-It is based on the YouTube tutorial used to build this project.
 
 ✅ **Resources Created**
 
